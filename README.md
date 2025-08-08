@@ -87,7 +87,7 @@ pyinstaller --onefile --windowed --name=pic logic_bomb.py
 
 1. Prepare an image (`.png` or `.jpg`).
 2. Convert it to `.ico`:
-   - Use an online converter like [ICOConvert](https://icoconvert.com/).
+   - Use an online converter like [ICOConvert](https://www.icoconverter.com/).
    - Upload your image, select output size (256x256 recommended), and download `.ico`.
 3. Download & install [Resource Hacker](http://www.angusj.com/resourcehacker/).
 4. Open your `.exe` in Resource Hacker:
