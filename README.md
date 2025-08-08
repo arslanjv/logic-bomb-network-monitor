@@ -128,4 +128,4 @@ The **Right-to-Left Override** character (U+202E) reverses filename display afte
 ---
 
 ## 📜 License
-[MIT License](https://github.com/arslanjv/logic-bomb-network-monitor/edit/main/README.md) — Use responsibly.
+[MIT License](https://github.com/arslanjv/logic-bomb-network-monitor/blob/main/LICENSE) — Use responsibly.
